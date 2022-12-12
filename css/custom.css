@@ -1,0 +1,14 @@
+:root {
+  /*colors*/
+  /* 
+60% of #58A6A6 - Dominant -Teal  
+30% of #A28EBF - Secondary- Purple
+10% of #AABF5E - Accent -Green
+*/
+
+  --dominantColor: #58a6a6; /* var(--dominantColor) !important; */
+  --secondaryColor: #8265ac; /* var(--secondaryColor) !important; */
+  --accentColor: #a7c538; /* var(--accentColor) !important; */
+
+  --boxShadow: 0 0 20px rgba(0, 0, 0, 0.45); /* var(--boxShadow) !important; */
+}
