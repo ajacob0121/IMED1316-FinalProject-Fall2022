@@ -54,6 +54,7 @@
   margin: auto;
   margin-top: 0px;
   margin-bottom: 0px;
+  box-shadow: var(--boxShadow) !important;
 }
 
 .volunteer-img {
@@ -77,6 +78,7 @@
   border-color: var(--dominantColor) !important;
   color: #000000 !important;
   background-color: var(--dominantColor) !important;
+  
 }
 
 .btn-volunteer:hover {
@@ -110,6 +112,7 @@
   margin: auto;
   margin-top: 0px;
   margin-bottom: 0px;
+  box-shadow: var(--boxShadow) !important;
 }
 
 .contact-img {
